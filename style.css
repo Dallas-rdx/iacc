@@ -12,4 +12,19 @@
     background: red;
   }
   
+  .registration{
+    background-color: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+
+  }
+  .front{
+    background-color: green;
+    border-radius: 4px;
+
+  }
+  .top{
+    text-align: center;
+    
+  }
   
